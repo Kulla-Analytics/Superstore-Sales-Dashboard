@@ -27,6 +27,7 @@ It provides a comprehensive analysis of sales performance across regions, produc
 
 ## 📷 Dashboard Preview
 ![Superstore Dashboard](Superstore-Dashboard.png)
+![Superstore Dashboard](Dashboard.png)
 
 ---
 
