@@ -72,25 +72,6 @@ The dashboard provides a comprehensive view of sales performance, profitability,
 
 ---
 
-## 📂 Project Structure
-
-Superstore-Sales-Dashboard/
-│
-├── data/
-│ └── superstore_raw_data.xlsx
-│
-├── dashboard/
-│ └── Superstore_Sales_Dashboard.xlsx
-│
-├── assets/
-│ └── dashboard-preview.png
-│
-├── README.md
-└── LICENSE
-
-
----
-
 ## 🚀 How to Use
 1. Download the Excel dashboard file  
 2. Open using Microsoft Excel (2016 or later recommended)  
