@@ -1,88 +1,107 @@
 # 📊 Superstore Sales Dashboard (Excel Project)
 
 ## 📌 Overview
-This project showcases an **interactive Superstore Sales Dashboard** built using **Microsoft Excel**.  
-The dashboard provides a comprehensive view of sales performance, profitability, product trends, and regional analysis to support data-driven decision-making.
+This project presents an **interactive Superstore Sales Dashboard** built using **Microsoft Excel**.  
+It provides a comprehensive analysis of sales performance across regions, product categories, and time, enabling data-driven decision-making.
 
 ---
 
 ## 🎯 Objectives
-- Analyze overall **sales, profit, and quantity**
+- Monitor **overall sales, profit, and quantity**
 - Identify **top-performing products**
-- Evaluate **regional sales performance**
-- Track **monthly trends**
-- Compare **profit vs loss**
-- Generate actionable **business insights**
+- Analyze **regional sales distribution**
+- Track **monthly sales and profit trends**
+- Evaluate **profit vs loss performance**
+- Generate actionable **business insights and recommendations**
 
 ---
 
 ## 🛠️ Tools & Techniques Used
 - Microsoft Excel  
-- Pivot Tables  
-- Pivot Charts  
-- Slicers (Filters)  
+- Pivot Tables & Pivot Charts  
+- Slicers (Interactive Filters)  
 - Data Cleaning & Transformation  
-- Dashboard Design & Formatting  
+- Dashboard Design & Visualization  
 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Dashboard.png)
+![Superstore Dashboard](dashboard.png)
 
 ---
 
 ## 📊 Key Metrics
-- **Total Sales:** $624,419  
-- **Total Profit:** $55,265.53  
-- **Total Quantity Sold:** 9,593  
+- **Total Sales:** $4,865,671  
+- **Total Profit:** $577,692.29  
+- **Total Quantity Sold:** 69,449  
 
 ---
 
 ## 🔍 Dashboard Features
 
 ### 🔹 Interactive Filters
-- Category (Furniture, Office Supplies, Technology)  
-- Region (South, Southeast Asia, West)  
-- Segment (Consumer, Corporate, etc.)  
-- Order Date (Year filter)  
+- **Category:** Furniture, Office Supplies, Technology  
+- **Region:** South, Southeast Asia, West, etc.  
+- **Segment:** Consumer, Corporate, Home Office  
+- **Order Date:** Year-based filtering  
 
 ---
 
 ### 🔹 Visualizations
-- 📌 Sales by Region (Bar Chart)  
-- 📌 Profit vs Loss (Donut Chart)  
-- 📌 Top 10 Products (Horizontal Bar Chart)  
-- 📌 Monthly Trend (Sales & Profit Line Chart)  
+- 📌 **Sales by Region** – Bar chart showing regional performance  
+- 📌 **Profit vs Loss** – Donut chart (72% Profit vs 28% Loss)  
+- 📌 **Top 10 Products** – Best-selling products by sales  
+- 📌 **Monthly Trend** – Line chart showing sales and profit trends over time  
 
 ---
 
 ## 📈 Key Insights
-- The **Central region** recorded the highest sales, indicating strong demand.  
-- The **Technology category** generated the highest profit, making it the most valuable segment.  
-- Sales peaked in **2024**, suggesting increased business activity.  
-- The business maintains a healthy position with **65% profit vs 35% loss**.  
+- The **Central region** recorded the highest sales, indicating strong market demand and customer concentration.  
+- The **Technology category** generated the highest profit, making it the most valuable segment for revenue growth.  
+- Overall business performance is strong with **72% profit vs 28% loss**.  
+- Monthly trends show fluctuations, with noticeable peaks indicating periods of high business activity.  
 
 ---
 
 ## 💡 Recommendations
-- Focus marketing and expansion on **high-performing regions**  
-- Increase investment in **Technology products**  
-- Improve performance in underperforming regions  
-- Leverage monthly trends for better planning and forecasting  
+- Increase investment in **Technology products** to maximize profitability  
+- Expand operations and marketing in **high-performing regions**  
+- Improve strategies in underperforming regions to boost sales  
+- Leverage monthly trends for better **forecasting and inventory planning**  
+
+---
+
+## 📂 Project Structure
+
+Superstore-Sales-Dashboard/
+│
+├── data/
+│ └── superstore_raw_data.xlsx
+│
+├── dashboard/
+│ └── Superstore_Sales_Dashboard.xlsx
+│
+├── assets/
+│ └── dashboard-preview.png
+│
+├── README.md
+└── LICENSE
+
 
 ---
 
 ## 🚀 How to Use
-1. Download the Excel dashboard file  
-2. Open using Microsoft Excel (2016 or later recommended)  
-3. Use slicers to interact with the dashboard  
+1. Download the Excel dashboard file from this repository  
+2. Open using **Microsoft Excel (2016 or later)**  
+3. Use the slicers to filter and interact with the dashboard  
 4. Explore insights dynamically  
 
 ---
 
 ## 📌 Author
 **Kulla-Analytic**  
-*Smart Data. Faster Action.*
+📧 kullasamuel@gmail.com  
+📞 09077305691  
 
 ---
 
@@ -91,3 +110,5 @@ If you found this project helpful:
 - Star ⭐ the repository  
 - Share with others  
 - Provide feedback  
+
+---
